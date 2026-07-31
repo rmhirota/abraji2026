@@ -16,7 +16,7 @@ library(tidyverse)
 
 **Jade Reis:** Consultora na Maré Consultoria. Co-organiza a R-Ladies São Paulo.
 
-**Geovana L.** Batista**:** cientista de dados no Banco BMG e co-organizadora R-Ladies São Paulo.
+**Geovana L.Batista**: Cientista de dados no Banco BMG e co-organizadora R-Ladies São Paulo.
 
 **Cecília do Lago:** Jornalista freelancer.
 
