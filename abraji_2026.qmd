@@ -27,13 +27,13 @@ library(tidyverse)
 **Parte 1 (9h30-11h): Introdução**  
 R + RStudio + ciência de dados
 
-**Parte 2 (11h30-13h): Conceitos de programação** 
+**Parte 2 (11h30-13h): Conceitos de programação**  
 Escrevendo os primeiros códigos
 
-**Parte 3 (11h30-13h): Tidyverse** 
+**Parte 3 (11h30-13h): Tidyverse**  
 Conjunto de pacotes para análise de dados 
 
-**Parte 4 (11h30-13h): Exercícios** 
+**Parte 4 (11h30-13h): Exercícios**  
 Colocando em prática o que aprendemos
 
 
