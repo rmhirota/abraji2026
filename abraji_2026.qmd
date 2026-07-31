@@ -2,7 +2,7 @@
 title: "Domingo de Dados<br>(Abraji)"
 subtitle: "Introdução à programação em R com dados eleitorais"
 # author: "[**Ana Carolina Moreno**](https://www.linkedin.com/in/anacarolinamoreno)<br>[**Jade Reis**](https://www.linkedin.com/in/jademare/)<br><u>[Link dessa apresentação](https://bit.ly/abraji_2025)</u>"
-author: "[Link dessa apresentação](https://bit.ly/abraji2026)"
+author: "[Link dessa apresentação: https://bit.ly/abraji2026](https://bit.ly/abraji2026)"
 format: revealjs
 incremental: false
 embed-resources: true
@@ -512,14 +512,14 @@ knitr::kable(deputados) |>
 
 # Links úteis:
 
--   [Repositório de arquivos](https://github.com/anacarolinamoreno/abraji_2025) dessa oficina
+-   [Repositório de arquivos](https://github.com/rmhirota/abraji_2026) dessa oficina
 
 -   Essa apostila: [https://anacarolinamoreno.github.io/abraji_2025](https://anacarolinamoreno.github.io/abraji_2025/abraji_2025.html)
 
--   [Grupo no WhatsApp dessa oficina](https://bit.ly/grupo_r_abraji_2025) (link disponível até 14/07/2025)
+-   [Grupo no WhatsApp dessa oficina: https://bit.ly/bootcamp-r-abraji-2026](https://bit.ly/bootcamp-r-abraji-2026) (link disponível até 03/08/2026)
 
 -   [Oficina de pacotes com Rafael Pereira](https://ipeagit.github.io/censobr_oficina_abraji_2025)
 
--   Link para o [script com todo o código do Rafael Pereira](https://github.com/anacarolinamoreno/abraji_2025/blob/main/oficina_censobr_geobr.R)
+-   Link para o [script com todo o código do Rafael Pereira](https://github.com/rmhirota/abraji_2026/blob/main/oficina_censobr_geobr.R)
 
 -   Documento de [links e referências](https://github.com/anacarolinamoreno/abraji_2025/blob/main/links_e_referencias.pdf) de leitura, cursos e comunidades
