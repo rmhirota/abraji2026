@@ -1,6 +1,6 @@
 ---
-title: "Domingo de Dados<br>(Abraji)"
-subtitle: "Introdução à programação em R com dados eleitorais"
+title: "Bootcamp R | Congresso Abraji 2026"
+subtitle: "Do primeiro passo à primeira pauta"
 # author: "[**Ana Carolina Moreno**](https://www.linkedin.com/in/anacarolinamoreno)<br>[**Jade Reis**](https://www.linkedin.com/in/jademare/)<br><u>[Link dessa apresentação](https://bit.ly/abraji_2025)</u>"
 author: "[Link dessa apresentação: https://bit.ly/abraji2026](https://bit.ly/abraji2026)"
 format: revealjs
