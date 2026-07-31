@@ -383,15 +383,15 @@ df <-  censobr::read_tracts(
 )
 
 # Fazer o collect selecionando as colunas que queremos
-df <- df %>%
-  select(code_tract, code_muni, code_state, domicilios_V05027) %>%
+df <- df |>
+  select(code_tract, code_muni, code_state, domicilios_V05027) |>
   collect()
 
 # Procurar o código IBGE de Santos/SP
 geobr::lookup_muni(name_muni = "Santos")
 
 # Filtrar a base original só com dados dos setores censitários de Santos
-santos_df <- df %>%
+santos_df <- df |>
   filter(code_muni == 3548500)
 
 # Checar detalhes básicos da coluna domicilios_V05027, como mínima, máxima, média etc.

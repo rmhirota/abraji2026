@@ -22,7 +22,7 @@ library(ggplot2)
 #Vamos usar a tabela MEDIA_RACA:
 
 #Passo 1 - abrir a tabela:
-media_raca <- read.csv2("data/media_raca.csv")
+media_raca <- read_csv2("data/media_raca.csv")
 
 #Passo 2 - definir as colunas que serão usadas:
 View(media_raca)
@@ -148,8 +148,8 @@ cowplot::save_plot("grafico_media_raca.png", plot_media_raca)
 
 
 ########PRÁTICA DA VIDA REAL########
-plot_eleitos_raca <- media_raca %>% 
-  mutate(cor_raca = reorder(cor_raca, total_candidatos)) %>% 
+plot_eleitos_raca <- media_raca |>
+  mutate(cor_raca = reorder(cor_raca, total_candidatos)) |>
   ggplot() +
   geom_col(aes(x = total_candidatos,
                y = cor_raca,
@@ -166,9 +166,9 @@ plot_eleitos_raca <- media_raca %>%
 
 
 
-               
+
 plot_eleitos_raca
-               
+
 cowplot::save_plot("grafico_eleitos_raca.png", plot_eleitos_raca)
 
 

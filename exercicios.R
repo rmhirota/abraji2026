@@ -7,7 +7,7 @@
 library(tidyverse)
 
 # Depois, carregamos a base original
-alesp <- read.csv2("data/alesp.csv",
+alesp <- read_csv2("data/alesp.csv",
                    fileEncoding = "Windows-1252") #Com o ajuste de Encoding!
 
 
