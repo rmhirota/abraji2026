@@ -72,7 +72,7 @@ Tutorial da Curso-R (Windows, Mac, Linux): <https://livro.curso-r.com/1-instalac
 
 -   Instalar o RStudio
 
--   Entrar [nesse Github](https://github.com/anacarolinamoreno/abraji_2025/)–\> clicar no botão verde chamado "Code" –\> escolher "Download zip" –\> descomprimir a pasta e salvar no local que quiser na pasta onde você for trabalhar
+-   Entrar [nesse Github](https://github.com/rmhirota/abraji2026/)–\> clicar no botão verde chamado "Code" –\> escolher "Download zip" –\> descomprimir a pasta e salvar no local que quiser na pasta onde você for trabalhar
 
 ## =\> Introdução
 
@@ -514,7 +514,7 @@ knitr::kable(deputados) |>
 
 -   [Repositório de arquivos](https://github.com/rmhirota/abraji_2026) dessa oficina
 
--   Essa apostila: [https://anacarolinamoreno.github.io/abraji_2025](https://anacarolinamoreno.github.io/abraji_2025/abraji_2025.html)
+-   Essa apostila: [https://hirota.dev/abraji2026/abraji_2026](https://hirota.dev/abraji2026/abraji_2026)
 
 -   [Grupo no WhatsApp dessa oficina: https://bit.ly/bootcamp-r-abraji-2026](https://bit.ly/bootcamp-r-abraji-2026) (link disponível até 03/08/2026)
 
@@ -522,4 +522,4 @@ knitr::kable(deputados) |>
 
 -   Link para o [script com todo o código do Rafael Pereira](https://github.com/rmhirota/abraji_2026/blob/main/oficina_censobr_geobr.R)
 
--   Documento de [links e referências](https://github.com/anacarolinamoreno/abraji_2025/blob/main/links_e_referencias.pdf) de leitura, cursos e comunidades
+-   Documento de [links e referências](https://github.com/rmhirota/abraji2026/blob/main/links_e_referencias.pdf) de leitura, cursos e comunidades
