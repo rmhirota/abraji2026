@@ -382,7 +382,7 @@ Saber poucos comandos já basta pra começar a analisar!
 |-----------------|--------------------------------------------|
 | **read_csv**    | abre o seu arquivo separado por vírgula    |
 | **read_csv2**   | arquivo separado por ponto e vírgula       |
-| **write.csv**   | salva a tabela num arquivo no computador   |
+| **write_csv**   | salva a tabela num arquivo no computador   |
 | **rename**      | renomeia uma coluna                        |
 | **replace**\*   | troca um valor p/ outro quando ele aparece |
 | **pivot**\*     | transforma linhas em colunas e vice-versa  |
